@@ -1,3 +1,4 @@
 a = 'anil'
 b = 'kumar'
-print(a+b)
+c = 'B.tech'
+print(a+b+c)
