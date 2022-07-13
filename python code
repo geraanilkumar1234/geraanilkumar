@@ -1,0 +1,3 @@
+a = 'anil'
+b = 'kumar'
+print(a+b)
